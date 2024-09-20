@@ -1,2 +1,2 @@
-# HTML-PROJECTS
-Practice projects for html.
+# HTML-PROJECT 1
+A PARALLAX WEBSITE
